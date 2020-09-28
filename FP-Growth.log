@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.27)  27 SEP 2020 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.27)  28 SEP 2020 07:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -22,11 +22,54 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks15
+) (/usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
+Package: animate 2019/12/03 PDF & SVG animations from files and inline graphics
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+)
+\XKV@depth=\count178
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count179
+\calc@Bcount=\count180
+\calc@Adimen=\dimen143
+\calc@Bdimen=\dimen144
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count181
+\calc@Cskip=\skip51
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
@@ -37,90 +80,169 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 105.
  (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
-) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-))
-\Gm@cnth=\count175
-\Gm@cntv=\count176
-\c@Gm@tempcnt=\count177
-\Gm@bindingoffset=\dimen137
-\Gm@wd@mp=\dimen138
-\Gm@odd@mp=\dimen139
-\Gm@even@mp=\dimen140
-\Gm@layoutwidth=\dimen141
-\Gm@layoutheight=\dimen142
-\Gm@layouthoffset=\dimen143
-\Gm@layoutvoffset=\dimen144
-\Gm@dimlist=\toks15
-) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count178
-\lst@gtempboxa=\box45
-\lst@token=\toks16
-\lst@length=\count179
-\lst@currlwidth=\dimen145
-\lst@column=\count180
-\lst@pos=\count181
-\lst@lostspace=\dimen146
-\lst@width=\dimen147
-\lst@newlines=\count182
-\lst@lineno=\count183
-\lst@maxwidth=\dimen148
- (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
-\c@lstnumber=\count184
-\lst@skipnumbers=\count185
-\lst@framebox=\box46
-) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2019/09/10 1.8c listings configuration
-))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
+)) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2019/11/29 v2.28 Module abspage for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2019/11/29 v2.28 Module base for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 763.
+Package zref Info: New property: default on input line 764.
+Package zref Info: New property: page on input line 765.
+) (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\c@abspage=\count182
+Package zref Info: New property: abspage on input line 66.
+) (/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count186
-\l__pdf_internal_box=\box47
+\l__kernel_color_stack_int=\count183
+\l__pdf_internal_box=\box45
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
+)
+Package: pdfbase 2020/01/27 v0.36 driver independent access to low-level PDF features
+\g_pbs_page_int=\count184
+\g_pbs_oc_int=\count185
+) (/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+Package: ocgbase 2019/11/04 v0.17 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count186
+)
+\@anim@box=\box46
+\@anim@measbox=\box47
+\@anim@tmpdima=\dimen145
+\@anim@tmpdimb=\dimen146
+\@anim@num=\count187
+\@anim@curframe=\count188
+\@anim@curframe@zb=\count189
+\@anim@resizeflags=\count190
+\@anim@skipfram=\count191
+\@anim@mulframecnt=\count192
+\@anim@@tmlnfile=\read2
+\@anim@tmpcnt=\count193
+\c@@anim@ltxcnt=\count194
+\@anim@curlayer=\count195
+\@anim@lineno=\count196
+\@anim@curfield=\count197
+\@anim@@resizeflags=\count198
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count199
+\Hy@pagecounter=\count266
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count267
+\pdfmajorversion=\count268
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count269
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen150
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count270
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+\Hy@abspage=\count271
+\c@Item=\count272
+\c@Hfootnote=\count273
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\HyAnn@Count=\count274
+\Fld@listcount=\count275
+\c@bookmark@seq@number=\count276
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip52
 ) (/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.aux)
 \openout1 = `FP-Growth.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count187
-\scratchdimen=\dimen149
-\scratchbox=\box48
-\nofMPsegments=\count188
-\nofMParguments=\count189
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count190
-\MPscratchDim=\dimen150
-\MPnumerator=\count191
-\makeMPintoPDFobject=\count192
-\everyMPtoPDFconversion=\toks18
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -129,15 +251,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(90.3375pt, 416.83289pt, 90.3375pt)
-* v-part:(T,H,B)=(90.3375pt, 664.37186pt, 90.3375pt)
+* h-part:(L,W,R)=(86.72377pt, 424.06033pt, 86.72377pt)
+* v-part:(T,H,B)=(86.72377pt, 671.5993pt, 86.72377pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=416.83289pt
-* \textheight=664.37186pt
-* \oddsidemargin=18.0675pt
-* \evensidemargin=18.0675pt
-* \topmargin=-18.9325pt
+* \textwidth=424.06033pt
+* \textheight=671.5993pt
+* \oddsidemargin=14.45378pt
+* \evensidemargin=14.45378pt
+* \topmargin=-22.54622pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -155,18 +277,54 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count193
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count277
+\scratchdimen=\dimen153
+\scratchbox=\box48
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen154
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring OFF on input line 16.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count283
+)
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
+ (/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.out) (/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.out)
+\@outlinefile=\write3
+\openout3 = `FP-Growth.out'.
 
-Overfull \hbox (16.86816pt too wide) in paragraph at lines 23--24
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+
+Overfull \hbox (9.64072pt too wide) in paragraph at lines 26--27
 []\OT1/cmr/m/n/12 ''Si un en-sem-ble d'^^Sel^^Sements est fr^^Sequent, tous ses sous-ensembles doivent ^^Segalement
  []
 
 
-Overfull \hbox (16.06355pt too wide) in paragraph at lines 25--28
+Overfull \hbox (8.8361pt too wide) in paragraph at lines 28--31
 []\OT1/cmr/m/n/12 Cependant, l'algorithme Apri-ori pr^^Sesente un d^^Seficit ma-jeur. L'utilisation d'Apriori
  []
 
@@ -174,47 +332,136 @@ Overfull \hbox (16.06355pt too wide) in paragraph at lines 25--28
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 38.
+(Font)              <12> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 38.
+(Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
-<images/one.png, id=9, 702.625pt x 505.89pt>
+(Font)              <6> on input line 41.
+<images/one.png, id=25, 702.625pt x 505.89pt>
 File: images/one.png Graphic file (type png)
 <use images/one.png>
-Package pdftex.def Info: images/one.png  used on input line 39.
-(pdftex.def)             Requested size: 416.83289pt x 300.13214pt.
-File: images/one.png Graphic file (type png)
-<use images/one.png>
-Package pdftex.def Info: images/one.png  used on input line 41.
-(pdftex.def)             Requested size: 416.83289pt x 300.13214pt.
-File: images/one.png Graphic file (type png)
-<use images/one.png>
-Package pdftex.def Info: images/one.png  used on input line 43.
-(pdftex.def)             Requested size: 416.83289pt x 300.13214pt.
-File: images/one.png Graphic file (type png)
-<use images/one.png>
-Package pdftex.def Info: images/one.png  used on input line 45.
-(pdftex.def)             Requested size: 416.83289pt x 300.13214pt.
-
-Overfull \hbox (5.37108pt too wide) in paragraph at lines 37--46
-\OT1/cmr/m/n/12 Avant de con-stru-ire l'arbre FP, r^^Seorganisez la trans-ac-tion en fonc-tion de la fr^^Sequence
+Package pdftex.def Info: images/one.png  used on input line 42.
+(pdftex.def)             Requested size: 424.06033pt x 305.33492pt.
+ [2 </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/one.png (PNG copy)>]
+<images/two/two-0.png, id=33, 1366.10374pt x 989.6975pt>
+File: images/two/two-0.png Graphic file (type png)
+<use images/two/two-0.png>
+Package pdftex.def Info: images/two/two-0.png  used on input line 49.
+(pdftex.def)             Requested size: 1366.10042pt x 989.69508pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-0.png> <a0,fr0>
+<images/two/two-1.png, id=45, 1366.10374pt x 984.67876pt>
+File: images/two/two-1.png Graphic file (type png)
+<use images/two/two-1.png>
+Package pdftex.def Info: images/two/two-1.png  used on input line 49.
+(pdftex.def)             Requested size: 1366.10042pt x 984.67635pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-1.png> <a0,fr1>
+<images/two/two-2.png, id=56, 1366.10374pt x 986.68625pt>
+File: images/two/two-2.png Graphic file (type png)
+<use images/two/two-2.png>
+Package pdftex.def Info: images/two/two-2.png  used on input line 49.
+(pdftex.def)             Requested size: 1366.10042pt x 986.68384pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-2.png> <a0,fr2>
+<images/two/two-3.png, id=67, 1362.08875pt x 991.705pt>
+File: images/two/two-3.png Graphic file (type png)
+<use images/two/two-3.png>
+Package pdftex.def Info: images/two/two-3.png  used on input line 49.
+(pdftex.def)             Requested size: 1362.08543pt x 991.70259pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-3.png> <a0,fr3>
+<images/two/two-4.png, id=78, 1365.1pt x 988.69376pt>
+File: images/two/two-4.png Graphic file (type png)
+<use images/two/two-4.png>
+Package pdftex.def Info: images/two/two-4.png  used on input line 49.
+(pdftex.def)             Requested size: 1365.09668pt x 988.69136pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-4.png> <a0,fr4>
+Overfull \hbox (17.61508pt too wide) in paragraph at lines 49--51
+[][][][][][][][]
  []
 
-[2 </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/one.png (PNG copy)>] [3] [4] [5] (/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[3]
+<images/three/three-0.png, id=123, 1438.37375pt x 1082.0425pt>
+File: images/three/three-0.png Graphic file (type png)
+<use images/three/three-0.png>
+Package pdftex.def Info: images/three/three-0.png  used on input line 58.
+(pdftex.def)             Requested size: 1438.37025pt x 1082.03986pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-0.png> <a1,fr0>
+<images/three/three-1.png, id=134, 1442.38875pt x 1084.05pt>
+File: images/three/three-1.png Graphic file (type png)
+<use images/three/three-1.png>
+Package pdftex.def Info: images/three/three-1.png  used on input line 58.
+(pdftex.def)             Requested size: 1442.38524pt x 1084.04736pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-1.png> <a1,fr1>
+<images/three/three-2.png, id=145, 1441.385pt x 1081.03876pt>
+File: images/three/three-2.png Graphic file (type png)
+<use images/three/three-2.png>
+Package pdftex.def Info: images/three/three-2.png  used on input line 58.
+(pdftex.def)             Requested size: 1441.38148pt x 1081.03612pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-2.png> <a1,fr2>
+<images/three/three-3.png, id=156, 1441.385pt x 1084.05pt>
+File: images/three/three-3.png Graphic file (type png)
+<use images/three/three-3.png>
+Package pdftex.def Info: images/three/three-3.png  used on input line 58.
+(pdftex.def)             Requested size: 1441.38148pt x 1084.04736pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-3.png> <a1,fr3>
+<images/three/three-4.png, id=167, 1443.3925pt x 1084.05pt>
+File: images/three/three-4.png Graphic file (type png)
+<use images/three/three-4.png>
+Package pdftex.def Info: images/three/three-4.png  used on input line 58.
+(pdftex.def)             Requested size: 1443.38899pt x 1084.04736pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-4.png> <a1,fr4>
+<images/three/three-5.png, id=178, 1440.38126pt x 1084.05pt>
+File: images/three/three-5.png Graphic file (type png)
+<use images/three/three-5.png>
+Package pdftex.def Info: images/three/three-5.png  used on input line 58.
+(pdftex.def)             Requested size: 1440.37775pt x 1084.04736pt.
+ </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-5.png> <a1,fr5>
+Overfull \hbox (17.61769pt too wide) in paragraph at lines 58--60
+[][][][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+[4]
+<images/four.png, id=212, 702.625pt x 524.96124pt>
+File: images/four.png Graphic file (type png)
+<use images/four.png>
+Package pdftex.def Info: images/four.png  used on input line 64.
+(pdftex.def)             Requested size: 424.06033pt x 316.84557pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+[5 </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/four.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+ (/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
+Package rerunfilecheck Info: File `FP-Growth.out' has not changed.
+(rerunfilecheck)             Checksum: BD0E6BEC7FC7BD688FF4CE3C3D14BD5E;187.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
+ ) 
 Here is how much of TeX's memory you used:
- 3035 strings out of 481239
- 44007 string characters out of 5920377
- 286646 words of memory out of 5000000
- 18314 multiletter control sequences out of 15000+600000
+ 7109 strings out of 481239
+ 113818 string characters out of 5920377
+ 399629 words of memory out of 5000000
+ 22226 multiletter control sequences out of 15000+600000
  537229 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,36p,595b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,6n,59p,595b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.pdf (5 pages, 153737 bytes).
+Output written on /home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.pdf (5 pages, 9968599 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 243 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 9 named destinations out of 1000 (max. 500000)
+ 424 words of extra memory for PDF output out of 10000 (max. 10000000)
 

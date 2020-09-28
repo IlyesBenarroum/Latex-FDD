@@ -1,7 +1,10 @@
 \documentclass[a4paper,12pt]{article}
+\usepackage[margin=1.20in]{geometry}
+\usepackage{animate}
 \usepackage{graphicx}
-\usepackage[margin=1.25in]{geometry}
-\usepackage{listings}
+
+\usepackage{hyperref}
+\usepackage{animate}
 \graphicspath{ {images/} }
 
 \author{Ilyes Benarroum \\
@@ -10,8 +13,8 @@ Groupe 1
 }
 \title{FP-Growth}
 \date{September 27}
-
 \begin{document}
+
 \maketitle
 \section{Quel est FP-growth?}
 FP-growth est une version améliorée de l'algorithme Apriori qui est largement utilisé pour d'exploration de données( génération des règles d'association). Il est utilisé comme processus analytique qui trouve des modèles ou des associations fréquents à partir d'ensembles de données(génération des règles d'association).
@@ -37,15 +40,34 @@ La racine représente null, chaque nœud représente un élément, tandis que l'
 Voici un exemple qui illustre la création d’un arbre FP. Trouvez tous les ensembles d'éléments
 fréquents avec un support  $\geq$2. Tout d'abord, recherchez tous les éléments avec un nombre de support $\geq$2.\\
 \includegraphics[width=\textwidth]{one}
+\pagebreak
+
 Avant de construire l'arbre FP, réorganisez la transaction en fonction de la fréquence de leurs éléments. Lorsque vous commencez à construire l'arbre FP, nous devons créer une table d'en-tête qui enregistre l'emplacement de tous les nœuds d'élément avec une liste de liens. Chaque fois qu'un nouveau nœud est ajouté à l'arborescence, il doit être lié au dernier nœud avec le même élément. La table d'en-tête est essentielle pour créer une arborescence FP conditionnelle dans les étapes ultérieures.\\
-\includegraphics[width=\textwidth]{one}
+\begin{frame}
+    {}
+
+    \animategraphics[loop,controls,width=\textwidth]{1}{two/two-}{0}{4}
+\end{frame}
+
+\pagebreak
+
 Maintenant, nous avons scanné la base de données deux fois et construit l'arbre FP. Toutes les informations de transaction sont contenues dans l'arborescence. La seule chose qui reste à faire est de construire récursivement l'arbre FP conditionnel pour trouver tous les éléments fréquents avec un nombre de support supérieur à 2. Utilisez le tableau d'en-tête que nous avons créé à la dernière étape et commencez à partir de l'élément avec le nombre le moins la plupart (E, D, C, B, A).
-\includegraphics[width=\textwidth]{one}
+\begin{frame}
+    {}
+
+    \animategraphics[loop,controls,width=\textwidth]{1}{three/three-}{0}{5}
+\end{frame}
+
+\pagebreak
+
 Enfin, nous pouvons facilement générer tous les itemsets fréquents à partir de ces FP-arbres conditionnels {E}, {A, D, E}, {A, E}, {D, E}, {D}, {A, D}, { C, D}, {C}, {A, C}, {B}, {A, B}, {A}.
-\includegraphics[width=\textwidth]{one}
+\includegraphics[width=\textwidth]{four}
+
 \section{Implémentation Python}
 Voici un exemple de code pour créer un FP-tree à partir de zéro et trouver tous les jeux d'éléments de fréquence dans Python 3.
 
-En conclusion, FP-tree reste la méthode la plus efficace et la plus évolutive pour extraire l'ensemble complet des modèles fréquents dans un ensemble de données. La plupart des langages de programmation, y compris Python, R et même Pyspark, ont des bibliothèques bien prises en charge pour générer FP-tree.
+En conclusion, FP-tree reste la méthode la plus efficace et la plus évolutive pour extraire l'ensemble complet des modèles fréquents dans un ensemble de données. La plupart des langages de programmation, y compris Python, R et même Pyspark, ont des bibliothèques bien prises en charge pour générer FP-tree.\\
+For the Code Source \\
 
+This is my link: \href{https://github.com/IlyesBenarroum/Latex-FDD/blob/master/Src/source.py}{FP-Growth}.
 \end{document}
