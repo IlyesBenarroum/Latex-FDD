@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.27)  28 SEP 2020 07:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.27)  28 SEP 2020 17:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -319,12 +319,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 19.
 
-Overfull \hbox (9.64072pt too wide) in paragraph at lines 26--27
-[]\OT1/cmr/m/n/12 ''Si un en-sem-ble d'^^Sel^^Sements est fr^^Sequent, tous ses sous-ensembles doivent ^^Segalement
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
  []
 
 
-Overfull \hbox (8.8361pt too wide) in paragraph at lines 28--31
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Overfull \hbox (8.8361pt too wide) in paragraph at lines 25--29
 []\OT1/cmr/m/n/12 Cependant, l'algorithme Apri-ori pr^^Sesente un d^^Seficit ma-jeur. L'utilisation d'Apriori
  []
 
@@ -332,53 +337,57 @@ Overfull \hbox (8.8361pt too wide) in paragraph at lines 28--31
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 41.
+(Font)              <12> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 41.
+(Font)              <8> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 41.
+(Font)              <6> on input line 37.
 <images/one.png, id=25, 702.625pt x 505.89pt>
 File: images/one.png Graphic file (type png)
 <use images/one.png>
-Package pdftex.def Info: images/one.png  used on input line 42.
+Package pdftex.def Info: images/one.png  used on input line 38.
 (pdftex.def)             Requested size: 424.06033pt x 305.33492pt.
  [2 </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/one.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
 <images/two/two-0.png, id=33, 1366.10374pt x 989.6975pt>
 File: images/two/two-0.png Graphic file (type png)
 <use images/two/two-0.png>
-Package pdftex.def Info: images/two/two-0.png  used on input line 49.
+Package pdftex.def Info: images/two/two-0.png  used on input line 46.
 (pdftex.def)             Requested size: 1366.10042pt x 989.69508pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-0.png> <a0,fr0>
 <images/two/two-1.png, id=45, 1366.10374pt x 984.67876pt>
 File: images/two/two-1.png Graphic file (type png)
 <use images/two/two-1.png>
-Package pdftex.def Info: images/two/two-1.png  used on input line 49.
+Package pdftex.def Info: images/two/two-1.png  used on input line 46.
 (pdftex.def)             Requested size: 1366.10042pt x 984.67635pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-1.png> <a0,fr1>
 <images/two/two-2.png, id=56, 1366.10374pt x 986.68625pt>
 File: images/two/two-2.png Graphic file (type png)
 <use images/two/two-2.png>
-Package pdftex.def Info: images/two/two-2.png  used on input line 49.
+Package pdftex.def Info: images/two/two-2.png  used on input line 46.
 (pdftex.def)             Requested size: 1366.10042pt x 986.68384pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-2.png> <a0,fr2>
 <images/two/two-3.png, id=67, 1362.08875pt x 991.705pt>
 File: images/two/two-3.png Graphic file (type png)
 <use images/two/two-3.png>
-Package pdftex.def Info: images/two/two-3.png  used on input line 49.
+Package pdftex.def Info: images/two/two-3.png  used on input line 46.
 (pdftex.def)             Requested size: 1362.08543pt x 991.70259pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-3.png> <a0,fr3>
 <images/two/two-4.png, id=78, 1365.1pt x 988.69376pt>
 File: images/two/two-4.png Graphic file (type png)
 <use images/two/two-4.png>
-Package pdftex.def Info: images/two/two-4.png  used on input line 49.
+Package pdftex.def Info: images/two/two-4.png  used on input line 46.
 (pdftex.def)             Requested size: 1365.09668pt x 988.69136pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/two/two-4.png> <a0,fr4>
-Overfull \hbox (17.61508pt too wide) in paragraph at lines 49--51
+Overfull \hbox (17.61508pt too wide) in paragraph at lines 46--48
 [][][][][][][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
 
  []
 
@@ -386,45 +395,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--51
 <images/three/three-0.png, id=123, 1438.37375pt x 1082.0425pt>
 File: images/three/three-0.png Graphic file (type png)
 <use images/three/three-0.png>
-Package pdftex.def Info: images/three/three-0.png  used on input line 58.
+Package pdftex.def Info: images/three/three-0.png  used on input line 55.
 (pdftex.def)             Requested size: 1438.37025pt x 1082.03986pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-0.png> <a1,fr0>
 <images/three/three-1.png, id=134, 1442.38875pt x 1084.05pt>
 File: images/three/three-1.png Graphic file (type png)
 <use images/three/three-1.png>
-Package pdftex.def Info: images/three/three-1.png  used on input line 58.
+Package pdftex.def Info: images/three/three-1.png  used on input line 55.
 (pdftex.def)             Requested size: 1442.38524pt x 1084.04736pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-1.png> <a1,fr1>
 <images/three/three-2.png, id=145, 1441.385pt x 1081.03876pt>
 File: images/three/three-2.png Graphic file (type png)
 <use images/three/three-2.png>
-Package pdftex.def Info: images/three/three-2.png  used on input line 58.
+Package pdftex.def Info: images/three/three-2.png  used on input line 55.
 (pdftex.def)             Requested size: 1441.38148pt x 1081.03612pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-2.png> <a1,fr2>
 <images/three/three-3.png, id=156, 1441.385pt x 1084.05pt>
 File: images/three/three-3.png Graphic file (type png)
 <use images/three/three-3.png>
-Package pdftex.def Info: images/three/three-3.png  used on input line 58.
+Package pdftex.def Info: images/three/three-3.png  used on input line 55.
 (pdftex.def)             Requested size: 1441.38148pt x 1084.04736pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-3.png> <a1,fr3>
 <images/three/three-4.png, id=167, 1443.3925pt x 1084.05pt>
 File: images/three/three-4.png Graphic file (type png)
 <use images/three/three-4.png>
-Package pdftex.def Info: images/three/three-4.png  used on input line 58.
+Package pdftex.def Info: images/three/three-4.png  used on input line 55.
 (pdftex.def)             Requested size: 1443.38899pt x 1084.04736pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-4.png> <a1,fr4>
 <images/three/three-5.png, id=178, 1440.38126pt x 1084.05pt>
 File: images/three/three-5.png Graphic file (type png)
 <use images/three/three-5.png>
-Package pdftex.def Info: images/three/three-5.png  used on input line 58.
+Package pdftex.def Info: images/three/three-5.png  used on input line 55.
 (pdftex.def)             Requested size: 1440.37775pt x 1084.04736pt.
  </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/three/three-5.png> <a1,fr5>
-Overfull \hbox (17.61769pt too wide) in paragraph at lines 58--60
+Overfull \hbox (17.61769pt too wide) in paragraph at lines 55--57
 [][][][][][][][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--60
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
 
  []
 
@@ -432,33 +441,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--60
 <images/four.png, id=212, 702.625pt x 524.96124pt>
 File: images/four.png Graphic file (type png)
 <use images/four.png>
-Package pdftex.def Info: images/four.png  used on input line 64.
+Package pdftex.def Info: images/four.png  used on input line 61.
 (pdftex.def)             Requested size: 424.06033pt x 316.84557pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
+Overfull \hbox (14.68318pt too wide) in paragraph at lines 60--62
+\OT1/cmr/m/n/12 A. [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
 [5 </home/iliesbenarroum/Documents/Latex/Latex-FDD/images/four.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
  (/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
 Package rerunfilecheck Info: File `FP-Growth.out' has not changed.
 (rerunfilecheck)             Checksum: BD0E6BEC7FC7BD688FF4CE3C3D14BD5E;187.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
  7109 strings out of 481239
  113818 string characters out of 5920377
- 399629 words of memory out of 5000000
+ 398629 words of memory out of 5000000
  22226 multiletter control sequences out of 15000+600000
  537229 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,6n,59p,595b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,6n,59p,737b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.pdf (5 pages, 9968599 bytes).
+Output written on /home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.pdf (5 pages, 9968479 bytes).
 PDF statistics:
  243 PDF objects out of 1000 (max. 8388607)
  145 compressed objects within 2 object streams

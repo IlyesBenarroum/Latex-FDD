@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1601275378 "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.tex" "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.pdf" "FP-Growth" 1601275394
+["pdflatex"] 1601312092 "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.tex" "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.pdf" "FP-Growth" 1601312152
   "/etc/texmf/web2c/texmf.cnf" 1601200838 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.aux" 1601275383 1468 e4056ac7596f2e85418737e4b0482bfa ""
-  "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.tex" 1601275378 5381 1357f8f1a506c3136f07fac0c368382a ""
+  "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.aux" 1601312097 1468 e4056ac7596f2e85418737e4b0482bfa ""
+  "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.tex" 1601312092 5167 b6e2702b89b96d5f69617cdb337cb01e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -79,9 +79,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1601200918 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1601200985 8256950 7ec94a4dbb0d9e954906bba3dd0de391 ""
-  "FP-Growth.aux" 1601275383 1468 e4056ac7596f2e85418737e4b0482bfa "pdflatex"
-  "FP-Growth.out" 1601275383 187 bd0e6bec7fc7bd688ff4ce3c3d14bd5e "pdflatex"
-  "FP-Growth.tex" 1601275378 5381 1357f8f1a506c3136f07fac0c368382a ""
+  "FP-Growth.aux" 1601312097 1468 e4056ac7596f2e85418737e4b0482bfa "pdflatex"
+  "FP-Growth.out" 1601312097 187 bd0e6bec7fc7bd688ff4ce3c3d14bd5e "pdflatex"
+  "FP-Growth.tex" 1601312092 5167 b6e2702b89b96d5f69617cdb337cb01e ""
   "images/four.png" 1601218396 241278 02276358bedb9a4be6cca5e03bb77cf9 ""
   "images/one.png" 1601215825 93395 551839331d35292f574098ce7331523a ""
   "images/three/three-0.png" 1601274894 1375072 388f667f562776fd7a897b61653a8150 ""
@@ -96,9 +96,9 @@
   "images/two/two-3.png" 1601225616 256691 93283f62dc2109083e0501bf13293514 ""
   "images/two/two-4.png" 1601225642 257726 4d9d61f999868153bc9a08c418ac3d2b ""
   (generated)
-  "FP-Growth.out"
   "FP-Growth.aux"
-  "FP-Growth.pdf"
   "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.log"
   "/home/iliesbenarroum/Documents/Latex/Latex-FDD/FP-Growth.pdf"
+  "FP-Growth.pdf"
+  "FP-Growth.out"
   "FP-Growth.log"
